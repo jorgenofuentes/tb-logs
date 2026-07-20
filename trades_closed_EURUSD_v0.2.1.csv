@@ -1,0 +1,2 @@
+ts_close_utc,version,symbol,ticket,direction,lot,entry,close,sl_distance,risk_money,risk_reconstructed,profit_gross,commission,swap,net,r_multiple,reason,duration_min,ts_open_utc
+2026-07-20T14:57:30+00:00,v0.2.1,EURUSD,9638261570,BUY,4.3,1.1416,1.14026,0.0013534957814585022,509.81,False,-505.32,0.0,0.0,-505.32,-0.9912,SL,27.5,2026-07-20T14:30:01.687895+00:00

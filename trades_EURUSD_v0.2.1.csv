@@ -1,0 +1,2 @@
+ts_utc,version,symbol,direction,lot,entry,sl,tp,sl_distance,risk_money,risk_actual,lot_capped,margin_required,margin_free,atr,adx_h1,ker,regime,session_hour_utc,pattern,retcode,order,broker_comment,comment
+2026-07-20T14:30:01.687895+00:00,v0.2.1,EURUSD,BUY,4.3,1.14161,1.14026,1.14702,0.0013534957814585022,510.08,509.81,False,18097.38,51007.84,0.0006767478907292511,12.979121962782244,0.4121037463977495,CHOP,14,SWEEP,10009,9638261570,Request executed,v0.2.1|SWEEP|CHOP
