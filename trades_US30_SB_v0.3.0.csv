@@ -1,0 +1,2 @@
+ts_utc,version,symbol,direction,lot,entry,sl,tp,sl_distance,risk_money,risk_actual,lot_capped,margin_required,margin_free,atr,adx_h1,ker,regime,session_hour_utc,pattern,retcode,order,broker_comment,comment
+2026-07-28T15:00:02.879869+00:00,v0.3.0,US30_SB,SELL,1.0,52620.0,52719.7,52420.7,99.66403848319032,100.0,99.66,False,2631.0,10000.0,66.44269232212689,22.813254557611067,0.07453416149068323,BULL,15,ENGULFING,10027,0,AutoTrading disabled by client,v0.3.0|ENGULFING|BULL

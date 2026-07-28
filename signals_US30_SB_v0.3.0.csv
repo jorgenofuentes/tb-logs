@@ -1,0 +1,2 @@
+ts_utc,version,symbol,pattern,direction,decision,blocked_by,close,atr,adx_h1,ker,spread_points,spread_atr_frac,ema_fast_h1,ema_slow_h1,regime,session_hour_utc
+2026-07-28T15:00:02.879869+00:00,v0.3.0,US30_SB,ENGULFING,SELL,OPEN,,52623.0,66.44269232212689,22.813254557611067,0.07453416149068323,20,0.0301,52409.60845413196,52288.20166735547,BULL,15
