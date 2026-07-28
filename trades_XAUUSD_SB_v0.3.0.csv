@@ -1,0 +1,2 @@
+ts_utc,version,symbol,direction,lot,entry,sl,tp,sl_distance,risk_money,risk_actual,lot_capped,margin_required,margin_free,atr,adx_h1,ker,regime,session_hour_utc,pattern,retcode,order,broker_comment,comment
+2026-07-28T15:31:22.971649+00:00,v0.3.0,XAUUSD_SB,SELL,12.0,4034.62,4042.93,4018.0,8.310001638120768,100.0,99.72,False,2420.77,10000.0,5.540001092080512,27.274420377044045,0.6435897435897387,BEAR,15,ENGULFING,10027,0,AutoTrading disabled by client,v0.3.0|ENGULFING|BEAR
