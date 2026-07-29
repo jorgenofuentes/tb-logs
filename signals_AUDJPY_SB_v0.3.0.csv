@@ -1,0 +1,2 @@
+ts_utc,version,symbol,pattern,direction,decision,blocked_by,close,atr,adx_h1,ker,spread_points,spread_atr_frac,ema_fast_h1,ema_slow_h1,regime,session_hour_utc
+2026-07-29T22:42:04.242815+00:00,v0.3.0,AUDJPY_SB,ENGULFING,BUY,BLOCKED,spread_too_wide,113.686,0.012763868916851029,33.458649656655474,0.07692307692290874,24,1.8803,113.71467174480915,113.92595916553765,BEAR,22

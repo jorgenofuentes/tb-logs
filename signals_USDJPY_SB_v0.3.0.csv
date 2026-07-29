@@ -1,0 +1,2 @@
+ts_utc,version,symbol,pattern,direction,decision,blocked_by,close,atr,adx_h1,ker,spread_points,spread_atr_frac,ema_fast_h1,ema_slow_h1,regime,session_hour_utc
+2026-07-29T22:43:04.738746+00:00,v0.3.0,USDJPY_SB,ENGULFING,SELL,BLOCKED,spread_too_wide,163.414,0.009846105427429658,23.660927916157284,0.4181818181822128,7,0.7109,163.6352406649748,163.67915509016242,BEAR,22

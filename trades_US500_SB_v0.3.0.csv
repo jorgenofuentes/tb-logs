@@ -1,0 +1,2 @@
+ts_utc,version,symbol,direction,lot,entry,sl,tp,sl_distance,risk_money,risk_actual,lot_capped,margin_required,margin_free,atr,adx_h1,ker,regime,session_hour_utc,pattern,retcode,order,broker_comment,comment
+2026-07-29T22:40:53.123296+00:00,v0.3.0,US500_SB,SELL,11.3,7339.3,7343.1,7331.6,3.830852891426828,102.48,43.29,True,4146.7,5195.79,2.5539019276178854,20.288622875245647,0.047619047619075115,BEAR,22,ENGULFING,10009,81484707,Request executed,v0.3.0|ENGULFING|BEAR

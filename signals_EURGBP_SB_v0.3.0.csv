@@ -1,0 +1,2 @@
+ts_utc,version,symbol,pattern,direction,decision,blocked_by,close,atr,adx_h1,ker,spread_points,spread_atr_frac,ema_fast_h1,ema_slow_h1,regime,session_hour_utc
+2026-07-29T22:42:04.230965+00:00,v0.3.0,EURGBP_SB,ENGULFING,BUY,BLOCKED,spread_too_wide,0.85792,4.953767235400093e-05,13.340642939197213,0.41176470588242975,8,1.6149,0.8568850277866014,0.8563068417368489,CHOP,22

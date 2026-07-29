@@ -1,0 +1,2 @@
+ts_close_utc,version,symbol,ticket,direction,lot,entry,close,sl_distance,risk_money,risk_reconstructed,profit_gross,commission,swap,net,r_multiple,reason,duration_min,ts_open_utc
+2026-07-29T00:21:55+00:00,v0.3.0,XAUUSD_SB,81266185,BUY,15.0,4019.47,4029.31,4.920140208057962,73.8,False,147.6,0.0,0.0,147.6,2.0,TP,41.8,2026-07-28T23:40:06.254076+00:00

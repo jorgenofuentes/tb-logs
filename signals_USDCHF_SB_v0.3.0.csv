@@ -1,0 +1,2 @@
+ts_utc,version,symbol,pattern,direction,decision,blocked_by,close,atr,adx_h1,ker,spread_points,spread_atr_frac,ema_fast_h1,ema_slow_h1,regime,session_hour_utc
+2026-07-29T22:42:04.184839+00:00,v0.3.0,USDCHF_SB,ENGULFING,BUY,BLOCKED,spread_too_wide,0.81387,8.01273070713173e-05,21.998588838224705,0.407407407407712,13,1.6224,0.8176093722011235,0.8180170668612623,BEAR,22
