@@ -1,0 +1,2 @@
+ts_close_utc,version,symbol,ticket,direction,lot,entry,close,sl_distance,risk_money,risk_reconstructed,profit_gross,commission,swap,net,r_multiple,reason,duration_min,ts_open_utc
+2026-07-30T16:02:02+00:00,v0.3.0,GBPJPY_SB,81648239,BUY,0.1,214.509,214.729,0.10991628584202014,1.1,False,2.2,0.0,0.0,2.2,2.0,TP,10.0,2026-07-30T15:52:02.683305+00:00

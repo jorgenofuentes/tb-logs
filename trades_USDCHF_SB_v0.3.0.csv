@@ -1,0 +1,2 @@
+ts_utc,version,symbol,direction,lot,entry,sl,tp,sl_distance,risk_money,risk_actual,lot_capped,margin_required,margin_free,atr,adx_h1,ker,regime,session_hour_utc,pattern,retcode,order,broker_comment,comment
+2026-07-30T15:39:04.381569+00:00,v0.3.0,USDCHF_SB,SELL,0.1,0.80585,0.80621,0.80514,0.0003571151455933668,101.25,0.36,True,26.92,41.95,0.0002380767637289112,31.50558743046065,0.4925373134328284,BEAR,15,ENGULFING,10009,81646191,Request executed,v0.3.0|ENGULFING|BEAR

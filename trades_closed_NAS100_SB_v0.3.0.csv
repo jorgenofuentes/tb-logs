@@ -1,0 +1,3 @@
+ts_close_utc,version,symbol,ticket,direction,lot,entry,close,sl_distance,risk_money,risk_reconstructed,profit_gross,commission,swap,net,r_multiple,reason,duration_min,ts_open_utc
+2026-07-29T22:45:23+00:00,v0.3.0,NAS100_SB,81484706,SELL,3.7,27291.4,27319.0,27.608141547152712,102.15,False,-102.12,0.0,0.0,-102.12,-0.9997,SL,4.5,2026-07-29T22:40:52.997882+00:00
+2026-07-30T15:44:02+00:00,v0.3.0,NAS100_SB,81646179,SELL,0.2,27890.5,27939.400000000005,48.86424792815144,9.77,False,-9.78,0.0,0.0,-9.78,-1.001,SL,5.1,2026-07-30T15:38:53.904960+00:00
