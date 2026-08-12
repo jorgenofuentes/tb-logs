@@ -1,1 +1,1 @@
-{"83560507": {"dir": "SELL", "lot": 2.8, "entry": 159.392, "sl_dist": 0.020054073457150913, "risk": 5.62, "ts_open_utc": "2026-08-12T06:06:01.802785+00:00", "reconstructed": false}}
+{"83563407": {"dir": "SELL", "lot": 2.0, "entry": 159.392, "sl_dist": 0.019988933921125267, "risk": 4.0, "ts_open_utc": "2026-08-12T06:33:03.812636+00:00", "reconstructed": false}, "83567995": {"dir": "BUY", "lot": 1.8, "entry": 159.357, "sl_dist": 0.019898227908117547, "risk": 3.58, "ts_open_utc": "2026-08-12T07:08:00.755753+00:00", "reconstructed": false}}
