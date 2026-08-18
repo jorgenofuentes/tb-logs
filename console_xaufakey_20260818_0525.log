@@ -43,3 +43,11 @@
 [2026-08-18 18:56:00.484153+00:00] XAUUSD_SB: ORDEN FAKEY BUY 12.4 @ 4355.46 SL=4353.52 TP=4359.34 riesgo=24.07 -> retcode=10009 OK
 [2026-08-18 18:56:40.994598+00:00] HEARTBEAT v0.3.0-xaufakey vivo | posiciones=1 | símbolos=1 | balance=5855.39 equity=5856.11 margen_libre=133.20
 [2026-08-18 19:00:01.362797+00:00] XAUUSD_SB: señal FAKEY SELL bloqueada por: position_already_open
+[2026-08-18 19:25:02.759021+00:00] CIERRE XAUUSD_SB ticket 84888353: SL net=-24.06 R=-0.9996 (25.0 min)
+[2026-08-18 19:26:42.848259+00:00] HEARTBEAT v0.3.0-xaufakey vivo | posiciones=0 | símbolos=1 | balance=5768.46 equity=5769.04 margen_libre=2652.69
+[2026-08-18 19:37:03.467569+00:00] XAUUSD_SB: AVISO lote recortado por margen (req 2351 > 80% de 2960 libres). Riesgo real 25.69.
+[2026-08-18 19:37:03.467569+00:00] XAUUSD_SB: ORDEN FAKEY SELL 10.8 @ 4353.5 SL=4355.88 TP=4348.74 riesgo=25.69 -> retcode=10009 OK
+[2026-08-18 19:45:03.931114+00:00] CIERRE XAUUSD_SB ticket 84892379: SL net=-25.70 R=-1.0004 (3.5 min)
+[2026-08-18 19:54:04.421982+00:00] XAUUSD_SB: AVISO lote recortado por margen (req 1216 > 80% de 1522 libres). Riesgo real 19.12.
+[2026-08-18 19:54:04.421982+00:00] XAUUSD_SB: ORDEN FAKEY SELL 5.6 @ 4343.87 SL=4347.28 TP=4337.04 riesgo=19.12 -> retcode=10009 OK
+[2026-08-18 19:56:44.582755+00:00] HEARTBEAT v0.3.0-xaufakey vivo | posiciones=1 | símbolos=1 | balance=5658.41 equity=5687.89 margen_libre=1027.55
