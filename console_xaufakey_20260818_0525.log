@@ -2,3 +2,13 @@
 [2026-08-18 12:26:13.746745+00:00] símbolo 'XAUUSD' -> 'XAUUSD_SB' (resuelto por sufijo del broker)
 [2026-08-18 12:26:13.748764+00:00] v0.3.0-xaufakey conectado | cuenta 62133951 (PepperstoneUK-Demo) | balance 6514.69 GBP | equity 6533.58 | 1:30 | magic 20990101 | TF M1 | patrones ['fakey'] | símbolos ['XAUUSD_SB'] | trailing=OFF RR=2.0
 [2026-08-18 12:56:18.518100+00:00] HEARTBEAT v0.3.0-xaufakey vivo | posiciones=0 | símbolos=1 | balance=6402.78 equity=6401.55 margen_libre=86.48
+[2026-08-18 13:13:03.406799+00:00] XAUUSD_SB: AVISO lote recortado por margen (req 352 > 80% de 457 libres). Riesgo real 6.21.
+[2026-08-18 13:13:03.406799+00:00] XAUUSD_SB: ORDEN FAKEY BUY 1.6 @ 4394.27 SL=4390.39 TP=4402.04 riesgo=6.21 -> retcode=10009 OK
+[2026-08-18 13:20:03.813053+00:00] CIERRE XAUUSD_SB ticket 84806070: SL net=-6.21 R=-1.0 (3.7 min)
+[2026-08-18 13:26:19.160486+00:00] HEARTBEAT v0.3.0-xaufakey vivo | posiciones=0 | símbolos=1 | balance=6279.53 equity=6278.96 margen_libre=1042.12
+[2026-08-18 13:28:04.266849+00:00] XAUUSD_SB: ORDEN OMITIDA (ni volume_min financiable).
+[2026-08-18 13:42:00.384071+00:00] XAUUSD_SB: AVISO lote recortado por margen (req 220 > 80% de 284 libres). Riesgo real 6.02.
+[2026-08-18 13:42:00.384071+00:00] XAUUSD_SB: ORDEN FAKEY BUY 1.0 @ 4403.13 SL=4397.11 TP=4415.16 riesgo=6.02 -> retcode=10009 OK
+[2026-08-18 13:50:00.870016+00:00] CIERRE XAUUSD_SB ticket 84817969: SL net=-6.02 R=-1.0 (4.2 min)
+[2026-08-18 13:50:00.863697+00:00] XAUUSD_SB: ORDEN OMITIDA (ni volume_min financiable).
+[2026-08-18 13:56:21.351689+00:00] HEARTBEAT v0.3.0-xaufakey vivo | posiciones=0 | símbolos=1 | balance=6249.02 equity=6330.85 margen_libre=526.21
