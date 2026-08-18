@@ -1,3 +1,4 @@
 [2026-08-18 12:26:13.058314+00:00] Conectando (attach al terminal abierto)…
 [2026-08-18 12:26:13.746745+00:00] símbolo 'XAUUSD' -> 'XAUUSD_SB' (resuelto por sufijo del broker)
 [2026-08-18 12:26:13.748764+00:00] v0.3.0-xaufakey conectado | cuenta 62133951 (PepperstoneUK-Demo) | balance 6514.69 GBP | equity 6533.58 | 1:30 | magic 20990101 | TF M1 | patrones ['fakey'] | símbolos ['XAUUSD_SB'] | trailing=OFF RR=2.0
+[2026-08-18 12:56:18.518100+00:00] HEARTBEAT v0.3.0-xaufakey vivo | posiciones=0 | símbolos=1 | balance=6402.78 equity=6401.55 margen_libre=86.48
