@@ -1,0 +1,2 @@
+ts_utc,version,symbol,direction,lot,entry,sl,tp,sl_distance,rr,risk_money,risk_actual,lot_capped,margin_required,margin_free,atr,session_hour_utc,retcode,order,broker_comment,comment
+2026-08-19T13:00:06.591624+00:00,v0.4.0,USDJPY_SB,SELL,1.0,158.575,158.856,157.873,0.28076403222184043,2.5,30.06,28.08,False,529.64,6011.93,0.18717602148122697,13,10009,85015747,Request executed,v0.4.0|MOM|T

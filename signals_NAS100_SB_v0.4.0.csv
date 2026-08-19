@@ -1,0 +1,2 @@
+ts_utc,version,symbol,pattern,direction,decision,blocked_by,close,atr,ema200,body_atr,spread_points,spread_atr_frac,session_hour_utc
+2026-08-19T13:00:06.718424+00:00,v0.4.0,NAS100_SB,MOMENTUM,BUY,OPEN,,29655.7,90.71491743680966,29651.466592490837,2.283,10,0.011,13

@@ -1,0 +1,2 @@
+ts_utc,version,symbol,direction,lot,entry,sl,tp,sl_distance,rr,risk_money,risk_actual,lot_capped,margin_required,margin_free,atr,session_hour_utc,retcode,order,broker_comment,comment
+2026-08-19T13:00:06.718424+00:00,v0.4.0,NAS100_SB,BUY,0.2,29649.5,29513.4,30057.7,136.0723761552145,3.0,30.06,27.21,False,296.5,5259.61,90.71491743680966,13,10009,85015750,Request executed,v0.4.0|MOM|T
