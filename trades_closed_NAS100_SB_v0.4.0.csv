@@ -1,0 +1,2 @@
+ts_close_utc,version,symbol,ticket,direction,lot,entry,close,sl_distance,risk_money,risk_reconstructed,profit_gross,commission,swap,net,r_multiple,reason,duration_min,ts_open_utc
+2026-08-19T13:39:48+00:00,v0.4.0,NAS100_SB,85015750,BUY,0.2,29649.5,29513.4,136.0723761552145,27.21,False,-27.22,0.0,0.0,-27.22,-1.0004,SL,39.7,2026-08-19T13:00:06.718424+00:00

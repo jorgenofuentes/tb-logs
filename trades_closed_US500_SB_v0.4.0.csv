@@ -1,0 +1,2 @@
+ts_close_utc,version,symbol,ticket,direction,lot,entry,close,sl_distance,risk_money,risk_reconstructed,profit_gross,commission,swap,net,r_multiple,reason,duration_min,ts_open_utc
+2026-08-19T13:48:56+00:00,v0.4.0,US500_SB,85015752,BUY,1.7,7729.3,7711.9,17.534581671324,29.81,False,-29.58,0.0,0.0,-29.58,-0.9923,SL,48.8,2026-08-19T13:00:06.754757+00:00
