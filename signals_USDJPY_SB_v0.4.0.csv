@@ -1,2 +1,3 @@
 ts_utc,version,symbol,pattern,direction,decision,blocked_by,close,atr,ema200,body_atr,spread_points,spread_atr_frac,session_hour_utc
 2026-08-19T13:00:06.591624+00:00,v0.4.0,USDJPY_SB,MOMENTUM,SELL,OPEN,,158.591,0.18717602148122697,159.2931109568738,-2.933,7,0.0374,13
+2026-08-19T19:00:01.719132+00:00,v0.4.0,USDJPY_SB,MOMENTUM,SELL,BLOCKED,position_already_open,158.316,0.22094459088445134,159.2424810140222,-1.227,7,0.0317,19
