@@ -1,0 +1,2 @@
+ts_utc,version,symbol,pattern,direction,decision,blocked_by,close,atr,ema200,body_atr,spread_points,spread_atr_frac,session_hour_utc
+2026-08-19T07:00:04.240707+00:00,v0.4.0,US30_SB,MOMENTUM,BUY,OPEN,,53409.6,63.87413270508599,53631.434203586745,1.541,20,0.0313,7

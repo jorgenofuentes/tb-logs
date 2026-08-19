@@ -1,0 +1,2 @@
+ts_utc,version,symbol,direction,lot,entry,sl,tp,sl_distance,rr,risk_money,risk_actual,lot_capped,margin_required,margin_free,atr,session_hour_utc,retcode,order,broker_comment,comment
+2026-08-19T07:00:04.240707+00:00,v0.4.0,US30_SB,BUY,0.3,53403.5,53307.7,53690.9,95.81119905762898,3.0,29.22,28.74,False,801.05,5594.88,63.87413270508599,7,10009,84971099,Request executed,v0.4.0|MOM|NT
